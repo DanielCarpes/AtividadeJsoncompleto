@@ -1,0 +1,487 @@
+{
+  "series": [
+    {
+      "id": "2",
+      "nomeSerie": "Stranger Things",
+      "temporadas": 4,
+      "anoLancamento": 2016,
+      "estudio": "Netflix"
+    },
+    {
+      "id": "3",
+      "nomeSerie": "kimi no todoke",
+      "temporadas": 1,
+      "anoLancamento": 202,
+      "estudio": "chibi"
+    },
+    {
+      "id": "4",
+      "nomeSerie": "kimi ke",
+      "temporadas": 1,
+      "anoLancamento": 202,
+      "estudio": "chibi"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "1",
+      "numTemporadas": "111",
+      "estudio": "1",
+      "anoLancamento": "1"
+    },
+    {
+      "id": null,
+      "nomeSerie": "1",
+      "numTemporadas": "111",
+      "estudio": "1",
+      "anoLancamento": "1"
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "",
+      "numTemporadas": "",
+      "estudio": "",
+      "anoLancamento": ""
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    },
+    {
+      "id": null,
+      "nomeSerie": "La casa de papel",
+      "numTemporadas": "5",
+      "estudio": "Netflix",
+      "anoLancamento": "2020"
+    }
+  ]
+}
